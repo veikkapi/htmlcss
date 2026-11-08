@@ -8,10 +8,10 @@ for (let i = 0; i < 5; i++) {
 
 document.querySelector("#kaikki").innerHTML = nimet;
 
-document.querySelector("#vika").innerHTML = nimet[nimet.leght-1];
+document.querySelector("#vika").innerHTML = nimet[nimet.length-1];
 
-taulukko.sort();
+nimet.sort();
 document.querySelector("#sort").innerHTML = nimet[0];
 
-taulukko.shift();
+nimet.shift();
 document.querySelector("#muokattu").innerHTML = nimet;
