@@ -25,5 +25,19 @@ Tehdyt tehtävät:
 Tehdyt tehtävät:
 
 - Tehtävä 1 (2p)
+- Tehtävä 2 (2p)
+- Tehtävä 3 (2p)
+- Tehtävä 4 (2p)
+- Tehtävä 5 (2p)
+
+**Yhteensä 10p**
+
+### JS-moduuli 4
+
+[Linkki JS-moduulin 4 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~veikkapi/js4-folder)
+
+Tehdyt tehtävät:
+
+- Tehtävä 1 (2p)
 
 **Yhteensä 2p**
