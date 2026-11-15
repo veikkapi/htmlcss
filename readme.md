@@ -39,5 +39,9 @@ Tehdyt tehtävät:
 Tehdyt tehtävät:
 
 - Tehtävä 1 (2p)
+- Tehtävä 2 (2p)
+- Tehtävä 3 (2p)
+- Tehtävä 4 (2p)
+- Tehtävä 8 (4p)
 
-**Yhteensä 2p**
+**Yhteensä 12p**
